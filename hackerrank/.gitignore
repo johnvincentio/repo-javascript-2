@@ -15,11 +15,5 @@ dist/*
 # vscode chrome extension
 .vscode/chrome
 
-# log files
 logfile.txt
 *.log
-
-# webpack bundle analyzer files
-statistics.json
-production-statistics.json
-
